@@ -1,4 +1,6 @@
 #App.js - client code
+
+
 This application is a web-based form submission system built with React for enrolling patients with their family doctor. It allows users to fill out multiple sections of a form, each representing different aspects of patient enrollment, and submit the form data to the server for processing. Here's a breakdown of the features and sections of the application:
 
 Form Sections: The form is divided into multiple sections, each representing a different aspect of patient enrollment. Users can navigate through these sections using the "Next Section" button.
